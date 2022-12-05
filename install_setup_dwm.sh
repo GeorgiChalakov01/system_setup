@@ -7,7 +7,7 @@ sudo pacman -S brightnessctl scrot
 
 cd ~
 
-https://github.com/GeorgiChalakov01/suckless.git
+git clone https://github.com/GeorgiChalakov01/suckless
 cd suckless
 
 cd st
