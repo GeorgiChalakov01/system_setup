@@ -10,7 +10,7 @@ echo install and setup dwm
 ./install_setup_dwm.sh
 
 echo install essential apps
-sudo pacman -S vim firefox alsa-utils unzip sxiv
+sudo pacman -S vim firefox alsa-utils unzip sxiv btop
 
 echo unmute sound
 amixer sset Master unmute
